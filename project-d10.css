@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+header {
+  height: 50px;
+  width: 100%;
+  background-color: #5758BB/*rgba(34, 49, 52, 0.9)*/;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+  padding-bottom: 40px;
+  background-image: url(https://imgsrv2.voi.id/_wsmY9Cq_rxvG-MeSqDcmb5xwhwAwrK8Um-0ZecxyCc/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8yOTIwMC8yMDIxMDEyNzE4MzctbW9iaWxlLmNyb3BwZWRfMTYxMTc0NzQ3NS5qcGc.jpg);
+  background-size: cover;
+  opacity: 0.9;
+}
+
+.header-text h1 {
+	font-size: 40px;
+	color: white;
+	text-align: center;
+}
+
+.header-text span {
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+  font-size: 45px;
+  color: #20bf6b;
+}
+
+.lesson-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: white;
+  text-align: center;
+  margin-top: 110px;
+}
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.lesson {
+  float: left;
+  width: 20%;
+}
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 17px;
+  color: #b3aeb5;
+}
+.tittle-wrapper img{
+  float: right;
+  margin-right: -50px;
+}
+.heading h2 {
+  font-weight: normal;
+  font-size: 30px;
+  text-align: center;  
+}
+
+.heading img{
+  float: right;  
+  size: 100px;
+}
+
+.lesson h2{
+  font-family: Arial, Helvetica, sans-serif
+}
+.wrapper{
+  margin: 100px 50px 0px 0px;
+}
+
+
+.wrapper h2{
+  font-size: 30px;
+  }
+.wrapper-h3{
+  text-align: left;
+  font-size: 25px;
+  font-weight: normal;
+  margin-top: 70px
+
+}
+.tittle-wrapper{
+  text-align: left;    
+}
+.tittle-wrapper h3{
+  width: 60%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.tittle-wrapper p{
+  margin-left: 25px;
+  width: 50%;
+  font-size: 20px;
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+    }
+
+.btn:hover {
+  opacity: 1;
+}
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.message {
+  padding: 15px 40px;
+  background-image: linear-gradient(to bottom, rgb(0, 153, 255), #1a3879 );
+  cursor: pointer;
+  box-shadow: 0 7px #102147;  
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+.contact-form {
+  padding-top:  100px;
+  background-image: url(https://www.idnfinancials.com/assets/insights/ca59e63204c61d99.jpg);
+  text-align: center;
+  background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40x;
+  color: white;
+}
+
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 30px;
+  font-size: 18px;
+  border: 4px solid #0a3d62;
+}
+
+.contact-submit {
+  background-color: #079992;
+  color: #f5f6fa;
+}
+
+.footer {
+  background-color: #2f5167;
+  background-image: url(https://i.ibb.co/Y7SW621/i-Stock-1209688759-1280x6581.jpg);
+  background-size: cover;
+  color: #fff;
+  height: 70px;
+  padding: 40px;
+  margin: 80px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  opacity: 0.9;
+  
+ }
+
+.footer-logo {
+  float: left;
+  font-size: 40px;
+}
+
+.footer-list {
+  float: right;
+  font-size: 20px;
+}
+li {
+  list-style: none;
+}
+

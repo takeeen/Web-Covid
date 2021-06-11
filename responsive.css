@@ -1,0 +1,137 @@
+/* Untuk Tablets */
+@media (max-width: 1000px) {
+
+  .lesson {
+    width:50%;
+    margin-bottom: 50px;    
+  }
+  .a1{
+    width: 100%;
+  }
+  
+
+  .header-text h1 {
+    margin-top: 30px;
+    font-size: 33px;
+  }
+  
+  .header-text span {
+    font-size: 33px;
+  }
+
+  .heading h2 {
+    font-size: 25px;
+  }
+
+  .wrapper h2{
+    font-size: 25px;
+  }
+
+  .wrapper h3{
+    font-size: 22px;
+    margin-top: 0px;
+  }
+
+  .tittle-wrapper h3 {
+    font-size: 18px;
+  }
+
+  .tittle-wrapper p {
+    font-size: 18px;
+  }
+  
+  .tittle-wrapper img {
+    margin-right: -60px;
+    width: auto;    
+  }
+
+  .footer {
+    height: 90px;
+  }
+    
+  .footer-logo {
+    font-size: 50px;
+  }
+    
+  .footer-list ul {
+      font-size: 16px;
+      padding-bottom: 0px;
+      float: none;
+  }
+  
+}
+
+/* Untuk Smartphone */
+@media (max-width: 670px) {
+  .lesson {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  body {
+		width: auto;
+	  
+  }
+  
+  .header-text h1 {
+    margin-top: 30px;
+    font-size: 30px;
+  }
+  
+  .header-text span {
+    font-size: 30px;
+  }
+
+  .heading h2 {
+    font-size: 20px;
+  }
+  .wrapper{
+    text-align: center;
+    width: 100%;
+    
+    }
+
+  .wrapper h2{
+    font-size: 30px;    
+    width: 100%;    
+  }
+
+  .wrapper h3{
+    font-size: 25px;
+    margin-top: 0px;    
+    width: 100%;
+    text-align: center;    
+  }
+  .tittle-wrapper{
+    text-align: center;
+    width: 100%;
+  }
+
+  .tittle-wrapper h3 {
+    font-size: 18px;
+    text-align: center;
+    padding-top: 25px;
+    width: 100%;
+  }
+
+  .tittle-wrapper p {
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+  }
+
+  .footer {
+    height: 62px;
+    }
+    
+  .footer-logo {
+    font-size: 50px;
+    }
+    
+  .footer-list ul {
+    font-size: 16px;
+    padding-bottom: 0px;
+    float: none;
+  }
+  
+}
